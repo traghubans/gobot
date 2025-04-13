@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Dependencies
+frontend/node_modules
+frontend/build
+
+# Binaries
+main
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env 

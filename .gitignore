@@ -1,0 +1,69 @@
+# Go binaries and build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+bin/
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# Frontend dependencies and build
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Debug files
+debug/
+__debug_bin
+
+# Test coverage
+coverage/
+*.cover
+*.out
+
+# Temporary files
+tmp/
+temp/
+
+# Local development files
+*.local
+*.dev
+*.development
+
+# API keys and secrets
+*.pem
+*.key
+*.cert
+*.password
+secrets/ 
