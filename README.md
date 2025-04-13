@@ -95,6 +95,9 @@ If you prefer to run the application without Docker:
 4. Push to the branch
 5. Create a Pull Request
 
+## Screenshot
+<img width="1430" alt="Screenshot 2025-04-13 at 4 39 07 AM" src="https://github.com/user-attachments/assets/ad2da4df-c6a2-43d4-ad6f-80a881a44f09" />
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
